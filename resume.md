@@ -1,8 +1,6 @@
 ---
-layout: page
-menus: header
 title: Resume
+menus: header
+layout: about_me
 permalink: /resume
 ---
-
-This is my resume Page.

@@ -1,66 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-25T10:48:06-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">John Doe</title><subtitle>John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers</subtitle><author><name>John Doe</name></author><entry><title type="html">My First Project- Making of Wattmeter</title><link href="http://localhost:4000/arduino/microcontroller/2019/08/12/my-first-project-making-of-wattmeter/" rel="alternate" type="text/html" title="My First Project- Making of Wattmeter" /><published>2019-08-12T00:00:00-07:00</published><updated>2019-08-12T00:00:00-07:00</updated><id>http://localhost:4000/arduino/microcontroller/2019/08/12/my-first-project-making-of-wattmeter</id><content type="html" xml:base="http://localhost:4000/arduino/microcontroller/2019/08/12/my-first-project-making-of-wattmeter/">&lt;p&gt;Hey guys!! Since this was my first project I tried to make my project as simple as possible for my sake.But for me since I was new to this field I made many mistake and learnt a lot from them.If you want to try to make this project please visit this link&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-28T14:44:24-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Suman Kumar</title><subtitle>An Engineers Logbook</subtitle><author><name>Suman Kumar</name></author><entry><title type="html">Quotes</title><link href="http://localhost:4000/quotes/2019/10/28/quotes-collection/" rel="alternate" type="text/html" title="Quotes" /><published>2019-10-28T00:31:57-07:00</published><updated>2019-10-28T00:31:57-07:00</updated><id>http://localhost:4000/quotes/2019/10/28/quotes-collection</id><content type="html" xml:base="http://localhost:4000/quotes/2019/10/28/quotes-collection/">&lt;h2 id=&quot;quotes&quot;&gt;&lt;strong&gt;Quotes&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://circuitdigest.com/microcontroller-projects/arduino-wattmeter-to-measure-voltage-current-power-consumption&quot; title=&quot;https://circuitdigest.com/microcontroller-projects/arduino-wattmeter-to-measure-voltage-current-power-consumption&quot;&gt;https://circuitdigest.com/microcontroller-projects/arduino-wattmeter-to-measure-voltage-current-power-consumption&lt;/a&gt; as it contains the stepwise procedure.But I am going to tell you the errors you will make if you blindly copy the website and try to make it on your own!!.If you  are familiar with Arduino no issue at all. But if this is your first time using it I would suggest you to go through some LED tutorials ,as they are easy to understand as well as they give u a rough idea about arduino. Okay..since the website i have given will give you all the details of making this project I  won’t waste my further time on instructing how to make.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jules Renard&lt;/strong&gt; It is not how old you are, but how you are old.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Lets begin :-&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tony Robbins&lt;/strong&gt; Change happens when the pain of staying the same is greater than the pain of change.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DAY 1: Planning!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Walt Disney&lt;/strong&gt; The way to get started is to quit talking and start doing.&lt;/p&gt;
 
-&lt;p&gt;Guys this might sound stupid but yes! you have to plan your project even if you know the procedure ,my suggestion is that if you have any friend who is interested in this type of project…collaborate with him share your ideas,think where you can use this project,plan your expenses,make a time schedule and follow that&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Henry Kissinger&lt;/strong&gt; To be absolutely certain about something, one must know everything or nothing about it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;MISTAKE I DID:-&lt;/strong&gt; In my case i was alone,nobody helped me ..so i had to struggle a lot for getting ideas,i spent a lot of money on buying components,there was no time management at all!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Marcus Aurelius&lt;/strong&gt; Anger cannot be dishonest.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DAY 2: Getting Components!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;J.D Roth blog email&lt;/strong&gt; When you find you’re stuck, do the smallest possible thing you can to move in the right direction.&lt;/p&gt;
 
-&lt;p&gt;Don’t rush!! Write each and every component required and then buy it.If  you got any market place for that stuff check it out there instead of searching online,Market usually have lower price than online.But if you are getting cheap no issue.Please make sure you know each and every component structure and additional components if required with them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zig Ziglar&lt;/strong&gt; Lack of direction, not lack of time, is the problem. We all have 24-hour days.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/IMG_20190812_134319_0.jpg&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abraham Lincoln&lt;/strong&gt; Always bear in mind that your own resolution to succeed is more important than any other.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;MISTAKE I DID:&lt;/strong&gt;-I went market without writing anything ,thinking its there on the internet ,but unfortunately the shopkeeper won’t wait for you to see and tell each component,another thing was that we need 16 pins for your LCD screen(if you know please ignore) .These pins are not attached to LCD when you buy it ,you have to purchase it additionally and solder it on your LCD.I hope you know how to solder..if u don’t here’s a link &lt;a href=&quot;https://youtu.be/E9NIN49iiCc&quot; title=&quot;https://youtu.be/E9NIN49iiCc&quot;&gt;https://youtu.be/E9NIN49iiCc&lt;/a&gt; (i am not promoting them i am just helping you)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;John Wooden&lt;/strong&gt; Do not let what you cannot do interfere with what you can do.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/IMG_20190812_134423_2.jpg&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ralph Charell&lt;/strong&gt; Avoid the crowd. Do your own thinking independently. Be the chess player, not the chess piece.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DAY 3: Making the Circuit!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael Hyatt&lt;/strong&gt; A dream is imaginable, but a goal is actionable.&lt;/p&gt;
 
-&lt;p&gt;Here comes the difficult part if you don’t know or never made a circuit before.Here major part lies in understanding the function of components how it works and why was it necessary to include it ,understand the logical circuit,connection and functionality.Its better to make the circuit only with the Arduino and LCD.It is  because ,you just have bought this two and don’t even know whether they are working or not. connect the LCD with Arduino and run a simple hello world program to make sure that work properly.The LCD might give you some difficulty,check the soldering of the pins, the connections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosea Ballow&lt;/strong&gt; No one has a greater asset for his business than a man’s pride in his work.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/H6MNR.jpg&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abraham Lincoln&lt;/strong&gt; Give me six hours to chop down a tree and I will spend the first hour sharpening the axe.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.arduino.cc/en/uploads/Tutorial/LCD_Base_bb_Schem.png&quot; alt=&quot;Image result for lcd to arduino connection&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ralph Waldo Emerson&lt;/strong&gt; An ounce of action is worth a ton of theory.&lt;/p&gt;
 
-&lt;p&gt;this link will give you tutorial for LCD &lt;a href=&quot;&quot;&gt;https://www.arduino.cc/en/Tutorial/HelloWorld&lt;/a&gt; run some other display programs to get familiar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Napoleon Hill&lt;/strong&gt; If you do not conquer self, you will be conquered by self.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;MISTAKE I DID:&lt;/strong&gt; Soldering had some issues,also the connection with the arduino was wrong.So everytime i used to run the code the backlight was ON but no output was shown,kindly check your connection if you are getting error .if it doesn’t match with the online symptoms then maybe you need to replace it.if you don’t get the output even on several attempts ,don’t loose hope,try some time later.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Franz Kafka&lt;/strong&gt; Start with what is right rather than what is acceptable.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DAY 4:Assembling everything!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Albert Einstein&lt;/strong&gt; A person who never made a mistake never tried anything new.&lt;/p&gt;
 
-&lt;p&gt;Now that you know that every component is functional ,move to assembly part,check each and every connection until you are satisfied.Don’t hesitate to disassemble  it you will learn a lot about the connection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jim Rohn&lt;/strong&gt; Dont wish it were easier, wish you were better.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/IMG_20190418_210334_9.jpg&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les Brown&lt;/strong&gt; Too many of us are not living our dreams because we are living our fears.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/IMG-20190420-WA0003.jpeg&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ralph Waldo Emerson&lt;/strong&gt; To be yourself in a world that is constantly trying to
+make you something else is the greatest accomplishment.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DAY 5: Testing the circuit!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Richard Feynman&lt;/strong&gt; The first principle is that you must not fool yourself and
+you are the easiest person to fool.&lt;/p&gt;
 
-&lt;p&gt;At last we are here..but wait this is not the end .We don’t know whether our circuit might work or not..the program is uploaded.But i have not given any load..wait the circuit doesn’t seem right!!! Something is not working!!! chill it happens everyone gets an error , if you don’t get what will you learn?? debug the code,understand where you went wrong,Do you need to change the code according to your needs?CHANGE IT!! don’t be afraid, you don’t have anything to lose (don’t worry your arduino won’t blast neither will your LCD they have current regulator inside them!!)check the connection of your assembly ,is it correct or you are just assuming it is correct ,dig deeper..if it still persists disassemble it and do it again.&lt;/p&gt;
+&lt;p&gt;What I cannot create, I do not understand.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/IqE8eMy4LwI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;For a successful technology, reality must take precedence over public
+relations, for Nature cannot be fooled.&lt;/p&gt;
 
-&lt;p&gt;**MISTAKE I DID:**My connections were totally wrong and i was assuming it to be correct.I disassembled and assembled about 12 times ..this is the pic of 4th time..my power value was still wrong !! XD .But try and try until you succeed&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benjamin Franklin&lt;/strong&gt; An investment in knowledge pays the best interest.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/IMG-20190512-WA0004.jpeg&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Frank Ocean&lt;/strong&gt; — Work hard in silence, let your success be your noise.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DAY 6: Finally i made it!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alexander Graham Bell:&lt;/strong&gt; Concentrate all your thoughts upon the work at hand.
+The sun’s rays do not burn until brought to focus.&lt;/p&gt;
 
-&lt;p&gt;After discovering so many wrong ways i got the correct one .sorry guys i just have the pic of the reading not whole circuit.But if you are able to achieve its great!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sun Tzu:&lt;/strong&gt; It is said that if you know your enemies and know yourself, you
+will not be imperiled in a hundred battles; if you do not know your enemies but
+do know yourself, you will win one and lose one; if you do not know your
+enemies nor yourself, you will be imperiled in every single battle.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/title cover wattmeter.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Georges St. Pierre&lt;/strong&gt; The way you train reflects the way you fight. People say
+I’m not going to train too hard, I’m going to do this in training, but when
+it’s time to fight I’m going to step up. There is no step up. You’re just going
+to do what you did every day.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Benefit i received  from this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Walter Scott&lt;/strong&gt; Success - keeping your mind awake and your desire asleep&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;learnt about working of LCD in arduino&lt;/li&gt;
-  &lt;li&gt;learning about opamp&lt;/li&gt;
-  &lt;li&gt;learning transistor&lt;/li&gt;
-  &lt;li&gt;Won my Project Based Learning competition with first prize of INR 3K(since my team project was not working ,i attached my circuit  to the project and took it as load resistance.since mine worked fine.The judges got impressed with explanation and we won!!&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>John Doe</name></author><summary type="html">Hey guys!! Since this was my first project I tried to make my project as simple as possible for my sake.But for me since I was new to this field I made many mistake and learnt a lot from them.If you want to try to make this project please visit this link</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;C S Lewis&lt;/strong&gt; You can’t go back and change the beginning, but you can start
+where you are and change the ending.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shane Parrish&lt;/strong&gt; You get paid linearly for analyzing and solving problems. You
+get paid non-linearly for spotting and seizing opportunities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Albert Einstein&lt;/strong&gt; I must be willing to give up what I am in order to become
+what I will be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jeff Bezos&lt;/strong&gt; Complaining is a strategy. You have to work with the world as
+you find it, not as you would have it be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Margaret Thatcher&lt;/strong&gt; Watch your thoughts, for they will become actions. Watch
+your actions, for they’ll become habits. Watch your habits for they will forge
+your character. Watch your character, for it will make your destiny.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Socrates&lt;/strong&gt; Intelligent individuals learn from every thing and every one;
+average people, from their experiences. The stupid already have all the
+answers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Albert Einstein&lt;/strong&gt; No amount of experimentation can ever prove me right; a
+single experiment can prove me wrong.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seneca&lt;/strong&gt; I will keep constant watch over myself and – most usefully – will
+put each day up for review. Let us balance life’s books each day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Savielly Tartakower&lt;/strong&gt; Tactics is knowing what to do when there is something
+to do; strategy is knowing what to do when there is nothing to do.&lt;/p&gt;
+
+&lt;hr class=&quot;notice&quot; /&gt;</content><author><name>Suman Kumar</name></author><category term="quotes" /><summary type="html">Quotes</summary></entry></feed>

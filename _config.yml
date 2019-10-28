@@ -1,95 +1,128 @@
-#remote-theme: sumanksp/jekyll-theme-developer  # Don't touch ( required for this theme)
-theme: jekyll-theme-developer
-
-# Edit your preferences below 
-title: John Doe
-subtitle: Full Stack Web Developer
+locale: "en-US"
+title: Suman Kumar
+subtitle: Linux Kernel Programmer 
 description: >- # this means to ignore newlines until "baseurl:"
-  John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers
+  An Engineers Logbook
 
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://sumankumarsp.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
+    - text: Home
+      url: /
     - text: Blog
       url: /blog
     - text: About Me
-      url: /about
-    - text: Contact Me
-      url : /contact
-    - text: Sample Page
-      url: /sample-page
+      url: /about/
     - text: Resume
-      url: /resume
+      url: /resume/
+    - text: Contact Me
+      url: /contact/
 
 # Edit these details 
-
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Suman Kumar
+author_bio: >-
+  An Embedded Systems engineer with extensive hands-on experience in building systems, developing low-level software covering board bring-up, Linux kernel device drivers for CE and Medical Products.
+  - Experienced creating real-time multi-threaded software and systems design.
+  - Worked on Qualcomm Snapdragon APQ8064, APQ8084, APQ8016, APQ8096 and Freescale i.MX6 chipsets.
+  -  
+
+author_email: "suman [DOT] read [AT] gmail [DOT] com"
+author_location: Palo Alto, California, USA
+author_website_url: "https://linkedin.com/in/sumankumarsp"
 
 author_work_experiences: 
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: CredenceID, LLC
+              company_logo: credenceid.png
+              company_url: https://www.credenceid.com
+              designation: Systems Engineer
+              description: Responsible for software delivery of CredenceTWO BioMetric Credence ID Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+#            - company_name: Graphene Semiconductors
+#              company_logo: microsoft.png
+#              company_url: https://microsoft.com
+#              designation: Senior Technical Member Staff
+#              description: Worked on various Azure Cloud Products
+#              visibility: true
+            - company_name: Inforce Computing Inc.,
+              company_logo: inforce.png
+              company_url: https://www.inforcecomputing.com/
+              designation: Technical Manager
+              description: Responsible for custom Board support package and linux drivers for Qualcomm chipsets
+              visibility: true
+            - company_name: Aricent Communications Inc.,
+              company_logo: aricent.png
+              company_url: https://www.aricent.com
+              designation: Technical Leader
+#              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: Philips
+              company_logo: philips.png
+              company_url: https://www.philips.com
+              designation: Software Engineer
+#              description: Worked on various Azure Cloud Products
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: csueb.png
+                college_name: California State University, Eastbay
+                college_url: https://www.csueastbay.edu
+                college_degree: Computer Science Graduate Student
+                description: Master of Science
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: ctwo.jpg
+                project_title: CredenceTWO-R
+                project_description: A Ruggedized Platform built for Biometric enrollment and verification.
+                project_url: https://www.credenceid.com
                 visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
-                visibility: true
+#              - project_thumbnail: programmingebooks.png
+#                project_title: Programming Ebooks
+#                project_description: A Platform to easily find and read programming books
+#                project_url: https://programmingebooks.com
+#                visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: sumankumarsp
+github_username:  sumanksp
+#facebook_username: sumankumarsp
+linkedin_username: sumankumarsp
+#behance_username: johndoe
+#instagram_username: johndoe
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
+#stackoverflow_username    : # http://stackoverflow.com/users/123456/username
+#googlescholar_username    : "http://yourfullgooglescholarurl.com"
+#researchgate_username     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#orcid_username            : "http://orcid.org/yourorcidurl"
 
 #for comments using disqus
-disqus_shortname: sujay-kundu  
+#disqus_shortname: suman-kumar  
 
-# wakatime username
-wakatime_username: sujaykundu777
+# wakatime username (coding activity)
+wakatime_username: sumank
+
+# formspree (contact form)
+formspree_email: suman.read@gmail.com
 
 # syntax highlighter
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # google analytics
-google_analytics: UA-46783401-10 
+#google_analytics: UA-46783401-10 
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
@@ -103,8 +136,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  # - jekyll-remote-theme
-  # - jekyll-archives
+  - jekyll-algolia
+# - jekyll-archives
+
+# algolia search 
+algolia:
+  application_id: U5AU7A509R
+  index_name: "sumanksp.github.io" # You can replace that with whatever name you want
+  files_to_exclude: []
+  nodes_to_index: 'article'
+  search_only_api_key: 643161712a45a54153cdeec914928213
 
 # pagination of posts
 paginate: 8
@@ -128,3 +169,25 @@ compress_html:
 #     category: '/category/:name/'
 
 
+#collections:
+# - products
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
